@@ -27,7 +27,7 @@ After clicking Others option on Homepage (others.dart):<br /><br />
 
 - File: SignIn.dart, profile.dart, profileShowDetails.dart by 6488061 <br /> <br /> 
 SignIn page (SignIn.dart):<br /> <br />
-<img src="https://github.com/qndska/LostFoundPJ/assets/125891778/27a0b53d-0726-41a9-bf4b-f1eb4cc2b784" width="200"/><br /><br />
+<img src=![Screenshot 2024-04-04 052830](https://github.com/cnnxsun/Lost-and-Found-Project/assets/125891778/401fd0b5-1156-44ea-a021-23d80aa175f1) width="200"/><br /><br />
 After clicking the profile icon on the navigation bar (profile.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/9aa6dd37-8552-4ff9-9bfb-214a3c67bc98" width="200"/>
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/11b9d5ab-a608-451f-b7db-27811e3c7bb5" width="200"/><br /><br />
