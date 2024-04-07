@@ -27,7 +27,7 @@ After clicking Others option on Homepage (others.dart):<br /><br />
 
 - File: SignIn.dart, profile.dart, profileShowDetails.dart by 6488061 <br /> <br /> 
 SignIn page (SignIn.dart):<br /> <br />
-<img src=![Screenshot 2024-04-04 052830](https://github.com/cnnxsun/Lost-and-Found-Project/assets/125891778/401fd0b5-1156-44ea-a021-23d80aa175f1) width="200"/><br /><br />
+<img src= "https://github.com/cnnxsun/Lost-and-Found-Project/assets/125891778/401fd0b5-1156-44ea-a021-23d80aa175f1" width="200"/><br /><br />
 After clicking the profile icon on the navigation bar (profile.dart):<br /> <br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/9aa6dd37-8552-4ff9-9bfb-214a3c67bc98" width="200"/>
 <img src="https://github.com/qndska/LostFoundPJ/assets/125891778/11b9d5ab-a608-451f-b7db-27811e3c7bb5" width="200"/><br /><br />
@@ -47,7 +47,7 @@ Click the notification button in any page to go to the see notification on notif
 The page is linked to Google Maps API to display the map (Location.dart):<br /><br />
 <img src="https://github.com/qndska/LostFoundPJ/assets/142898592/f6d82379-fd4e-4976-a1db-367ca5e3645f)" width="200"/><br /><br /><br />
 SignUp page (SignUp.dart):<br /> <br />
-<img src="https://github.com/qndska/LostFoundPJ/assets/125891778/7b9c41c9-f51c-4a18-8ffa-efd217b43394" width="200"/><br /><br />
+<img src="https://github.com/cnnxsun/Lost-and-Found-Project/assets/125891778/2d41f607-ea5c-4787-aed0-0c661ee330fd" width="200"/><br /><br />
 
 
 
